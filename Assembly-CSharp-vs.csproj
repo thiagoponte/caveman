@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Background Scripts\BGScaler.cs" />
+     <Compile Include="Assets\Scripts\Cloud Collectors Scripts\CloudCollector.cs" />
+     <Compile Include="Assets\Scripts\Cloud Collectors Scripts\CloudSpawner.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\Player.cs" />
      <None Include="Assets\Font\readme.txt" />
  <Reference Include="UnityEngine.UI">
